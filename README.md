@@ -1,5 +1,13 @@
 # Dry Bean Classification Using Machine Learning
 
+## Project Links
+
+**GitHub Repository:**  
+https://github.com/Nishi597/dry-bean-classification-streamlit
+
+**Live Streamlit Application:**  
+https://dry-bean-classification-app-qljsxpboe63ygxj6izhaqr.streamlit.app/
+
 ## 1. Problem Statement
 
 The objective of this project is to build and compare multiple machine learning classification models for identifying different varieties of dry beans based on their physical characteristics.
